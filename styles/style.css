@@ -245,19 +245,13 @@
   position: relative;
 }
 
-.section-subtitle {
+.section-subtitle_theme_dark {
   margin: 20px auto 0;
   width: 60%;
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
-}
-.section-subtitle_theme_dark {
   color: white;
   z-index: 1;
   position: relative;
 }
-
 
 .table__cell_theme_dark {
   margin-top: 80px;
