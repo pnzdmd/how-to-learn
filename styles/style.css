@@ -14,6 +14,7 @@
   position: relative;
   display: flex;
   align-items: center;
+  background-color:  #f2f2f2;
 }
 
 .logo__place_header {
@@ -30,14 +31,13 @@
 
 .header__title {
   align-items: center;
-  position: absolute;
   left: 64px;
   max-width: 730px;
   z-index: 2;
   margin: 0;
   line-height: 96px;
   font-size: 102px;
-  font-weight: bold;
+  font-weight: 700;
 
 }
 
@@ -120,14 +120,14 @@
 }
 
 .two-columns__span {
-  font-weight: bold;
+  font-weight: 700;
 }
 
 .section-title {
   text-align: center;
   line-height: 1.15;
   font-size: 60px;
-  font-weight: normal;
+  font-weight: 700;
 }
 
 .section-subtitle {
@@ -185,7 +185,7 @@
   width: 648px;
   line-height: 1.15;
   font-size: 120px;
-  font-weight: normal;
+  font-weight: 700;
   top: 100px;
   margin: 0 auto;
   
@@ -239,7 +239,7 @@
   margin: 0 auto;
   width: 60%;
   line-height: 1.15;
-  font-weight: bold;
+  font-weight: 700;
   color: white;
   z-index: 1;
   position: relative;
