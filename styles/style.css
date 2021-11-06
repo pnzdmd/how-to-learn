@@ -309,7 +309,7 @@
   margin: 60px auto 40px;
 }
 
-.logo_place-footer {
+.logo_place_footer {
   background-image: url(../images/logo_place_footer.svg);
   height: 35px;
   z-index: 1;
